@@ -2,10 +2,10 @@
 
 ## **Introduction**
 
-Explain how to use redux to manage state in a react application
+Simple application to demonstrate how to use redux to maintain state in a react application
  
 ## **Setup**
-We will use [vite](https://vitejs.dev/) to generate our react application or but you can also use  [create-react-app](https://create-react-app.dev/) or any other react toolchain you are comfortable with.
+Use [vite](https://vitejs.dev/) to generate react application but you can also use  [create-react-app](https://create-react-app.dev/) or any other react toolchain you are comfortable with.
 
 ### *create react application*
 
