@@ -10,6 +10,6 @@ Explain how to use redux to manage state in a react application
 **setup**
 We will use vite to create react app but you can use create-react-app or any other react toolchain you are comfortable with.
 
-<code>$ npm create vite@latest</code>
+<code>$ npm create vite@latest --template react</code>  or  $ npx create-react-app@latest if you are using create-react-app
 
 **code**
