@@ -1,10 +1,10 @@
 # redux-counter
 
-##*Introduction*
+## Introduction
 
 Explain how to use redux to manage state in a react application
 
-**dependencies**
+### dependencies
 1. @reactjs/toolkit
 2. react-redux
  
