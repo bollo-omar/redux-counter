@@ -12,7 +12,7 @@ Use [vite](https://vitejs.dev/) to generate react application but you can also u
 <code>$ npm create vite@latest <appName> --template react</code>  or  <code>$ npx create-react-app@latest <appName> --template redux</code> if you are using create-react-app
  
  ### *dependencies*
-1. @reactjs/toolkit
+1. @reduxjs/toolkit
 2. react-redux 
 
 ### *install dependencies*
